@@ -1,0 +1,49 @@
+#
+# /*************************************************************
+# *   PROJECT : YERAYLOIS GITHUB PROFILE                      *
+# *   FILE    : .github/workflows/metrics.yml                 *
+# *   PURPOSE : GENERATE SELF-HOSTED PROFILE METRICS          *
+# *   AUTHOR  : Yeray Lois Sanchez                            *
+# *   EMAIL   : yerayloissanchez@gmail.com                    *
+# *************************************************************/
+#
+
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "27 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || github.token }}
+          user: diegobousop
+          filename: assets/metrics/base.svg
+          committer_branch: main
+          committer_message: "chore(metrics): refresh profile metrics [skip ci]"
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          config_twemoji: yes
+          plugin_habits: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming, markup

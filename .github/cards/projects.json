@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zephyr_t114",
+    "name": "Zephyr T114",
+    "description_es": "Soporte Zephyr T114 & validador",
+    "description_en": "T114 Zephyr support & validator",
+    "tech": [
+      { "id": "c", "label": "C" },
+      { "id": "zephyr", "label": "Zephyr RTOS" }
+    ],
+    "repo": "https://github.com/yeraylois/zephyr"
+  },
+  {
+    "id": "zephyr_lvgl_upstream",
+    "name": "LVGL RGB565X Swap (Zephyr)",
+    "description_es": "Contribución mergeada en Zephyr upstream",
+    "description_en": "Merged contribution in Zephyr upstream",
+    "tech": [
+      { "id": "c", "label": "C" },
+      { "id": "zephyr", "label": "Zephyr RTOS" }
+    ],
+    "repo": "https://github.com/zephyrproject-rtos/zephyr/pull/108610"
+  }
+]
