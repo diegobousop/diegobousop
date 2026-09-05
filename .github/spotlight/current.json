@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:38:04.175093+00:00",
+  "generated_at": "2026-09-05T11:18:47.413566+00:00",
   "iso_week": 36,
   "index": 0,
   "project": {
@@ -21,6 +21,6 @@
         "label": "Embedded Systems"
       }
     ],
-    "repo": "https://github.com/yeraylois/zephyr"
+    "repo": "https://github.com/diegobousop/2025-Ecos-do-Sur-App"
   }
 }

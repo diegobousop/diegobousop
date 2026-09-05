@@ -1,8 +1,8 @@
 {
   "recent": [
+    "HTML",
     "JavaScript",
     "Java",
-    "HTML",
     "Promela",
     "Makefile",
     "OCaml"
@@ -12,8 +12,8 @@
     "C",
     "Git"
   ],
-  "updated_at": "2026-09-05T03:29:47.666957+00:00",
+  "updated_at": "2026-09-05T11:18:40.107461+00:00",
   "repository_scope": "public",
-  "repositories_scanned": 12,
+  "repositories_scanned": 13,
   "private_repositories_scanned": 0
 }

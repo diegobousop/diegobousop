@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yerayloissanchez@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yerayloissanchez%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:diegoobouso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yerayloissanchez%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/yeray-lois"><img src="https://img.shields.io/badge/LINKEDIN-yeraylois-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/yeraylois"><img src="https://img.shields.io/github/followers/yeraylois?label=FOLLOW&style=for-the-badge" alt="GitHub followers" /></a>
+  <a href="https://github.com/diegobousop"><img src="https://img.shields.io/github/followers/yeraylois?label=FOLLOW&style=for-the-badge" alt="GitHub followers" /></a>
 </p>
 
 <p align="center">
@@ -74,9 +74,9 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
 #### 𝐒𝐍𝐀𝐊𝐄 𝐃𝐄 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐂𝐈𝐎𝐍𝐄𝐒
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 #### 𝐒𝐓𝐀𝐂𝐊 𝐓𝐄𝐂𝐍𝐎𝐋𝐎𝐆𝐈𝐂𝐎
@@ -169,7 +169,7 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
 #### 𝐖𝐄𝐄𝐊𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐏𝐎𝐓𝐋𝐈𝐆𝐇𝐓
 
 <p align="center">
-  <a href="https://github.com/yeraylois/zephyr">
+  <a href="https://github.com/diegobousop/2025-Ecos-do-Sur-App">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/spotlight/current-dark-en.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/spotlight/current-light-en.svg" />
@@ -199,7 +199,7 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
 #### 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
 
 <p align="center">
-  <a href="https://github.com/yeraylois/zephyr">
+  <a href="https://github.com/diegobousop/2025-Ecos-do-Sur-App">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project-zephyr_t114-dark-en.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project-zephyr_t114-light-en.svg" />

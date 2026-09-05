@@ -1,14 +1,14 @@
 [
   {
-    "id": "zephyr_t114",
-    "name": "Zephyr T114",
-    "description_es": "Soporte Zephyr T114 & validador",
+    "id": "ecos_do_sur",
+    "name": "Ecos do Sur App",
+    "description_es": "Aplicación multiplataforma ",
     "description_en": "T114 Zephyr support & validator",
     "tech": [
       { "id": "c", "label": "C" },
       { "id": "zephyr", "label": "Zephyr RTOS" }
     ],
-    "repo": "https://github.com/yeraylois/zephyr"
+    "repo": "https://github.com/diegobousop/2025-Ecos-do-Sur-App"
   },
   {
     "id": "zephyr_lvgl_upstream",

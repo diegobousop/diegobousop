@@ -28,9 +28,9 @@ HEIGHT = 128
 ICON_SIZE = 26
 
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-PROJECT = "YERAYLOIS GITHUB PROFILE"
-AUTHOR = "Yeray Lois Sanchez"
-EMAIL = "yerayloissanchez@gmail.com"
+PROJECT = "DIEGOBOUSOP GITHUB PROFILE"
+AUTHOR = "Diego Bouso Paz"
+EMAIL = "diegoobouso@gmail.com"
 BANNER_WIDTH = 61
 
 THEMES = {

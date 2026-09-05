@@ -21,8 +21,8 @@ from pathlib import Path
 
 STACK_TOKEN = os.environ.get("STACK_REPOS_TOKEN", "")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-USERNAME = os.environ.get("GITHUB_USERNAME", "yeraylois")
-REPO_NAME = os.environ.get("GITHUB_REPO", "yeraylois")
+USERNAME = os.environ.get("GITHUB_USERNAME", "diegobousop")
+REPO_NAME = os.environ.get("GITHUB_REPO", "diegobousop")
 README_PATH = Path("README.md")
 TECH_ICONS_PATH = Path("assets/tech_icons.yml")
 STACK_JSON = Path("assets/stack/recent.json")
@@ -257,7 +257,7 @@ def api_request(url, token=""):
         req.add_header("Authorization", f"Bearer {token}")
     req.add_header("Accept", "application/vnd.github+json")
     req.add_header("X-GitHub-Api-Version", "2022-11-28")
-    req.add_header("User-Agent", "yeraylois-profile-stack-updater")
+    req.add_header("User-Agent", "diegobousop-profile-stack-updater")
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.loads(resp.read().decode())
 
@@ -420,7 +420,7 @@ def create_issue_for_new_tech(new_techs, repo_name):
     req.add_header("Authorization", f"token {GITHUB_TOKEN}")
     req.add_header("Accept", "application/vnd.github.v3+json")
     req.add_header("Content-Type", "application/json")
-    req.add_header("User-Agent", "yeraylois-profile-stack-updater")
+    req.add_header("User-Agent", "diegobousop-profile-stack-updater")
     
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:

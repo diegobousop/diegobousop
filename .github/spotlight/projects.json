@@ -9,6 +9,6 @@
       { "id": "zephyr", "label": "Zephyr RTOS" },
       { "id": "embedded", "label": "Embedded Systems" }
     ],
-    "repo": "https://github.com/yeraylois/zephyr"
+    "repo": "https://github.com/diegobousop/2025-Ecos-do-Sur-App"
   }
 ]

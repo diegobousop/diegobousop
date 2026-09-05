@@ -71,7 +71,7 @@ class RepositoryFilterTests(unittest.TestCase):
             update_stack.fetch_all_repos()
 
         url, token = request.call_args.args
-        self.assertTrue(url.startswith("https://api.github.com/users/yeraylois/repos?"))
+        self.assertTrue(url.startswith("https://api.github.com/users/diegobousop/repos?"))
         self.assertIn("type=owner", url)
         self.assertEqual("", token)
 
