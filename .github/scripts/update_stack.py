@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 #
 # /*************************************************************
-# *   PROJECT : YERAYLOIS GITHUB PROFILE                      *
+# *   PROJECT : DIEGOBOUSOP GITHUB PROFILE                    *
 # *   FILE    : .github/scripts/update_stack.py               *
 # *   PURPOSE : AUTO-DETECT AND UPDATE DYNAMIC TECH STACK     *
-# *   AUTHOR  : Yeray Lois Sanchez                            *
-# *   EMAIL   : yerayloissanchez@gmail.com                    *
+# *   AUTHOR  : Diego Bouso Paz                               *
+# *   EMAIL   : diegoobouso@gmail.com                         *
 # *************************************************************/
 #
 

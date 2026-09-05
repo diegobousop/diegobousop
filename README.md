@@ -1,28 +1,28 @@
 <!--
 /*************************************************************
- *   PROJECT : YERAYLOIS GITHUB PROFILE                      *
+ *   PROJECT : DIEGOBOUSOP GITHUB PROFILE                    *
  *   FILE    : README.md                                     *
  *   PURPOSE : PUBLIC PROFILE OVERVIEW (ES/EN)               *
- *   AUTHOR  : Yeray Lois Sanchez                            *
- *   EMAIL   : yerayloissanchez@gmail.com                    *
+ *   AUTHOR  : Diego Bouso Paz                               *
+ *   EMAIL   : diegoobouso@gmail.com                         *
  *************************************************************/
 -->
 
 <h1 align="center">Diego Bouso Paz</h1>
-<p align="center"><strong>𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 (𝟐𝟎𝟐𝟏-𝟐𝟎𝟐6) @ 𝐔𝐃𝐂 · SOFTWARE ENGINEERING</strong></p>
+<p align="center"><strong>Software Engineering Graduate (𝟐𝟎𝟐𝟏-𝟐𝟎𝟐6) @ UDC</strong></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&center=true&vCenter=true&width=860&color=9BE9A8&lines=Embedded+Systems+%C2%B7+Automation+%C2%B7+Full-Stack;Building+reliable+developer+tooling+with+focus+on+execution" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&center=true&vCenter=true&width=860&color=9BE9A8&lines=Java+%C2%B7+React+%C2%B7+Full-Stack;Building+reliable+developer+tools+with+focus+on+execution" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&center=true&vCenter=true&width=860&color=36BCF7&lines=Embedded+Systems+%C2%B7+Automation+%C2%B7+Full-Stack;Building+reliable+developer+tooling+with+focus+on+execution" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1400&center=true&vCenter=true&width=860&color=36BCF7&lines=Embedded+Systems+%C2%B7+Automation+%C2%B7+Full-Stack;Building+reliable+developer+tooling+with+focus+on+execution" alt="Typing intro" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="mailto:diegoobouso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yerayloissanchez%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yeray-lois"><img src="https://img.shields.io/badge/LINKEDIN-yeraylois-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/diegobousop"><img src="https://img.shields.io/github/followers/yeraylois?label=FOLLOW&style=for-the-badge" alt="GitHub followers" /></a>
+  <a href="mailto:diegoobouso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-diegoobouso%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/diego-bouso-paz-248491289/"><img src="https://img.shields.io/badge/LINKEDIN-Diego%20Bouso%20Paz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/diegobousop"><img src="https://img.shields.io/github/followers/diegobousop?label=FOLLOW&style=for-the-badge" alt="GitHub followers" /></a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
 #### 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎 𝐒𝐄𝐌𝐀𝐍𝐀𝐋
 
 <p align="center">
-  <a href="https://github.com/yeraylois/zephyr">
+  <a href="https://github.com/diegobousop/2025-Ecos-do-Sur-App">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/spotlight/current-dark-es.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/spotlight/current-light-es.svg" />
@@ -112,7 +112,7 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
 #### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎
 
 <p align="center">
-  <a href="mailto:yerayloissanchez@gmail.com">
+  <a href="mailto:diegoobouso@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-email-dark-es.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-email-light-es.svg" />
@@ -120,7 +120,7 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
     </picture>
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/yeray-lois">
+  <a href="https://www.linkedin.com/in/diego-bouso-paz-248491289/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-linkedin-dark-es.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-linkedin-light-es.svg" />
@@ -128,7 +128,7 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
     </picture>
   </a>
   <br/>
-  <a href="https://github.com/yeraylois">
+  <a href="https://github.com/diegobousop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-github-dark-es.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-github-light-es.svg" />
@@ -155,7 +155,7 @@ Graduado en Ingeniería Informática por la UDC (2021-2025), enfocado en sistema
 
 #### 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-Computer Engineering graduate from UDC (2021-2025), focused on embedded systems, automation and execution-oriented developer tooling.
+Software Engineering graduate from UDC (2021-2026), focused on embedded systems, automation and execution-oriented developer tooling.
 
 <h4 align="center">𝐆𝐈𝐓𝐇𝐔𝐁 𝐌𝐄𝐓𝐑𝐈𝐂𝐒</h4>
 
@@ -181,9 +181,9 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
 #### 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐒𝐍𝐀𝐊𝐄
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yeraylois/yeraylois/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/diegobousop/diegobousop/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 #### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
@@ -219,7 +219,7 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
 #### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓
 
 <p align="center">
-  <a href="mailto:yerayloissanchez@gmail.com">
+  <a href="mailto:diegoobouso@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-email-dark-en.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-email-light-en.svg" />
@@ -227,7 +227,7 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
     </picture>
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/yeray-lois">
+  <a href="https://www.linkedin.com/in/diego-bouso-paz-248491289/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-linkedin-dark-en.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-linkedin-light-en.svg" />
@@ -235,7 +235,7 @@ Computer Engineering graduate from UDC (2021-2025), focused on embedded systems,
     </picture>
   </a>
   <br/>
-  <a href="https://github.com/yeraylois">
+  <a href="https://github.com/diegobousop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/contact-github-dark-en.svg" />
       <source media="(prefers-color-scheme: light)" srcset="./assets/cards/contact-github-light-en.svg" />

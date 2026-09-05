@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 /*************************************************************
- *   PROJECT : YERAYLOIS GITHUB PROFILE                      *
+ *   PROJECT : DIEGOBOUSOP GITHUB PROFILE                    *
  *   FILE    : .github/scripts/generate_footer.py            *
  *   PURPOSE : GENERATE ANIMATED FOOTER SVG                  *
- *   AUTHOR  : Yeray Lois Sanchez                            *
- *   EMAIL   : yerayloissanchez@gmail.com                    *
+ *   AUTHOR  : Diego Bouso Paz                               *
+ *   EMAIL   : diegoobouso@gmail.com                         *
  *************************************************************/
 """
 
@@ -88,7 +88,7 @@ def build_footer(theme: str) -> str:
   {right_line}
   {animated_wave}
   <text x="{WIDTH // 2}" y="72" fill="{t['text1']}" font-size="11.5" font-weight="500" font-family="{FONT}" text-anchor="middle">
-    Built with precision by Yeray Lois Sanchez
+    Built with precision by Diego Bouso Paz
   </text>
   <text x="{WIDTH // 2}" y="88" fill="{t['text1']}" font-size="10" font-family="{FONT_MONO}" text-anchor="middle" opacity="0.7">
     <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3s" repeatCount="indefinite"/>

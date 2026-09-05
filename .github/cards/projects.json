@@ -11,14 +11,14 @@
     "repo": "https://github.com/diegobousop/2025-Ecos-do-Sur-App"
   },
   {
-    "id": "zephyr_lvgl_upstream",
-    "name": "LVGL RGB565X Swap (Zephyr)",
+    "id": "portfolio",
+    "name": "Portfolio personal",
     "description_es": "Contribución mergeada en Zephyr upstream",
     "description_en": "Merged contribution in Zephyr upstream",
     "tech": [
       { "id": "c", "label": "C" },
       { "id": "zephyr", "label": "Zephyr RTOS" }
     ],
-    "repo": "https://github.com/zephyrproject-rtos/zephyr/pull/108610"
+    "repo": "https://github.com/diegobousop/diegobousopaz-portfoloio-vercel"
   }
 ]

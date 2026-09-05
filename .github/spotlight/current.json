@@ -4,8 +4,8 @@
   "index": 0,
   "project": {
     "id": "ecos-do-sur",
-    "name": "Zephyr: Heltec Mesh Node T114 Board & Validator",
-    "description_es": "Soporte de placa para Heltec Mesh Node T114 y muestra interactiva para validar pantalla, botones y hardware.",
+    "name": "Ecos do Sur App",
+    "description_es": "Aplicación móbil multiplataforma con chatbot integrado destinada a persoas potencialmente vítimas de discriminación, agresións e violencias con base racista e xenófoba.",
     "description_en": "Board support PR for Heltec Mesh Node T114 with interactive validator sample testing display, buttons and hardware.",
     "tech": [
       {
