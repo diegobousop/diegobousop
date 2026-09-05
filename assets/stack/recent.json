@@ -1,19 +1,19 @@
 {
   "recent": [
-    "Shell",
-    "Qt",
-    "LoRa",
-    "MQTT",
-    "Python",
-    "JavaScript"
+    "JavaScript",
+    "Java",
+    "HTML",
+    "Promela",
+    "Makefile",
+    "OCaml"
   ],
   "loved": [
     "Bash",
     "C",
     "Git"
   ],
-  "updated_at": "2026-09-04T07:59:44.070105+00:00",
-  "repository_scope": "public-private",
-  "repositories_scanned": 31,
-  "private_repositories_scanned": 31
+  "updated_at": "2026-09-05T03:29:47.666957+00:00",
+  "repository_scope": "public",
+  "repositories_scanned": 12,
+  "private_repositories_scanned": 0
 }
